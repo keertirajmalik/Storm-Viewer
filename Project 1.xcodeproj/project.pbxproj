@@ -13,6 +13,17 @@
 		335A74F4278DA3740069B58D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 335A74F2278DA3740069B58D /* Main.storyboard */; };
 		335A74F6278DA3760069B58D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 335A74F5278DA3760069B58D /* Assets.xcassets */; };
 		335A74F9278DA3760069B58D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 335A74F7278DA3760069B58D /* LaunchScreen.storyboard */; };
+		335A750A278DA98B0069B58D /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 335A7500278DA98A0069B58D /* nssl0034.jpg */; };
+		335A750B278DA98B0069B58D /* nssl0045.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 335A7501278DA98A0069B58D /* nssl0045.jpg */; };
+		335A750C278DA98B0069B58D /* nssl0091.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 335A7502278DA98A0069B58D /* nssl0091.jpg */; };
+		335A750D278DA98B0069B58D /* nssl0046.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 335A7503278DA98A0069B58D /* nssl0046.jpg */; };
+		335A750E278DA98B0069B58D /* nssl0049.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 335A7504278DA98B0069B58D /* nssl0049.jpg */; };
+		335A750F278DA98B0069B58D /* nssl0051.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 335A7505278DA98B0069B58D /* nssl0051.jpg */; };
+		335A7510278DA98B0069B58D /* nssl0042.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 335A7506278DA98B0069B58D /* nssl0042.jpg */; };
+		335A7511278DA98B0069B58D /* nssl0043.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 335A7507278DA98B0069B58D /* nssl0043.jpg */; };
+		335A7512278DA98B0069B58D /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 335A7508278DA98B0069B58D /* nssl0033.jpg */; };
+		335A7513278DA98B0069B58D /* nssl0041.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 335A7509278DA98B0069B58D /* nssl0041.jpg */; };
+		335A7515278DCF1A0069B58D /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 335A7514278DCF1A0069B58D /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +35,17 @@
 		335A74F5278DA3760069B58D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		335A74F8278DA3760069B58D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		335A74FA278DA3760069B58D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		335A7500278DA98A0069B58D /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
+		335A7501278DA98A0069B58D /* nssl0045.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0045.jpg; sourceTree = "<group>"; };
+		335A7502278DA98A0069B58D /* nssl0091.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0091.jpg; sourceTree = "<group>"; };
+		335A7503278DA98A0069B58D /* nssl0046.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0046.jpg; sourceTree = "<group>"; };
+		335A7504278DA98B0069B58D /* nssl0049.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0049.jpg; sourceTree = "<group>"; };
+		335A7505278DA98B0069B58D /* nssl0051.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0051.jpg; sourceTree = "<group>"; };
+		335A7506278DA98B0069B58D /* nssl0042.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0042.jpg; sourceTree = "<group>"; };
+		335A7507278DA98B0069B58D /* nssl0043.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0043.jpg; sourceTree = "<group>"; };
+		335A7508278DA98B0069B58D /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
+		335A7509278DA98B0069B58D /* nssl0041.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0041.jpg; sourceTree = "<group>"; };
+		335A7514278DCF1A0069B58D /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,10 +81,21 @@
 				335A74EC278DA3740069B58D /* AppDelegate.swift */,
 				335A74EE278DA3740069B58D /* SceneDelegate.swift */,
 				335A74F0278DA3740069B58D /* ViewController.swift */,
+				335A7514278DCF1A0069B58D /* DetailViewController.swift */,
 				335A74F2278DA3740069B58D /* Main.storyboard */,
 				335A74F5278DA3760069B58D /* Assets.xcassets */,
 				335A74F7278DA3760069B58D /* LaunchScreen.storyboard */,
 				335A74FA278DA3760069B58D /* Info.plist */,
+				335A7508278DA98B0069B58D /* nssl0033.jpg */,
+				335A7500278DA98A0069B58D /* nssl0034.jpg */,
+				335A7509278DA98B0069B58D /* nssl0041.jpg */,
+				335A7506278DA98B0069B58D /* nssl0042.jpg */,
+				335A7507278DA98B0069B58D /* nssl0043.jpg */,
+				335A7501278DA98A0069B58D /* nssl0045.jpg */,
+				335A7503278DA98A0069B58D /* nssl0046.jpg */,
+				335A7504278DA98B0069B58D /* nssl0049.jpg */,
+				335A7505278DA98B0069B58D /* nssl0051.jpg */,
+				335A7502278DA98A0069B58D /* nssl0091.jpg */,
 			);
 			path = "Project 1";
 			sourceTree = "<group>";
@@ -125,9 +158,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				335A750E278DA98B0069B58D /* nssl0049.jpg in Resources */,
+				335A7512278DA98B0069B58D /* nssl0033.jpg in Resources */,
+				335A750B278DA98B0069B58D /* nssl0045.jpg in Resources */,
+				335A750D278DA98B0069B58D /* nssl0046.jpg in Resources */,
+				335A7511278DA98B0069B58D /* nssl0043.jpg in Resources */,
+				335A750C278DA98B0069B58D /* nssl0091.jpg in Resources */,
+				335A750F278DA98B0069B58D /* nssl0051.jpg in Resources */,
+				335A7510278DA98B0069B58D /* nssl0042.jpg in Resources */,
 				335A74F9278DA3760069B58D /* LaunchScreen.storyboard in Resources */,
 				335A74F6278DA3760069B58D /* Assets.xcassets in Resources */,
+				335A750A278DA98B0069B58D /* nssl0034.jpg in Resources */,
 				335A74F4278DA3740069B58D /* Main.storyboard in Resources */,
+				335A7513278DA98B0069B58D /* nssl0041.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +184,7 @@
 				335A74F1278DA3740069B58D /* ViewController.swift in Sources */,
 				335A74ED278DA3740069B58D /* AppDelegate.swift in Sources */,
 				335A74EF278DA3740069B58D /* SceneDelegate.swift in Sources */,
+				335A7515278DCF1A0069B58D /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,6 +341,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -306,7 +351,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -325,6 +370,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -334,7 +380,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
