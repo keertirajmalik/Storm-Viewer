@@ -44,6 +44,8 @@ class ViewController: UITableViewController {
         if let vc = storyboard?.instantiateViewController(withIdentifier: "Detail") as? DetailViewController {
             // success then set it's selectedImage property
             vc.selectedImage = pictures[indexPath.row]
+            vc.imageNumber = indexPath.row + 1
+            vc.totalNumberOfImage = pictures.count
             
             // now push it onto the navigation controller
             navigationController?.pushViewController(vc, animated: true)
