@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		332B0E4E27909E5F007FDBE8 /* Hello (2).png in Resources */ = {isa = PBXBuildFile; fileRef = 332B0E4D27909E5E007FDBE8 /* Hello (2).png */; };
+		332B0E5027909E93007FDBE8 /* 3582927.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 332B0E4F27909E93007FDBE8 /* 3582927.jpeg */; };
 		335A74ED278DA3740069B58D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 335A74EC278DA3740069B58D /* AppDelegate.swift */; };
 		335A74EF278DA3740069B58D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 335A74EE278DA3740069B58D /* SceneDelegate.swift */; };
 		335A74F1278DA3740069B58D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 335A74F0278DA3740069B58D /* ViewController.swift */; };
@@ -27,6 +29,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		332B0E4D27909E5E007FDBE8 /* Hello (2).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Hello (2).png"; sourceTree = "<group>"; };
+		332B0E4F27909E93007FDBE8 /* 3582927.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3582927.jpeg; sourceTree = "<group>"; };
 		335A74E9278DA3740069B58D /* Project 1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Project 1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		335A74EC278DA3740069B58D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		335A74EE278DA3740069B58D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -96,6 +100,8 @@
 				335A7504278DA98B0069B58D /* nssl0049.jpg */,
 				335A7505278DA98B0069B58D /* nssl0051.jpg */,
 				335A7502278DA98A0069B58D /* nssl0091.jpg */,
+				332B0E4D27909E5E007FDBE8 /* Hello (2).png */,
+				332B0E4F27909E93007FDBE8 /* 3582927.jpeg */,
 			);
 			path = "Project 1";
 			sourceTree = "<group>";
@@ -160,7 +166,9 @@
 			files = (
 				335A750E278DA98B0069B58D /* nssl0049.jpg in Resources */,
 				335A7512278DA98B0069B58D /* nssl0033.jpg in Resources */,
+				332B0E5027909E93007FDBE8 /* 3582927.jpeg in Resources */,
 				335A750B278DA98B0069B58D /* nssl0045.jpg in Resources */,
+				332B0E4E27909E5F007FDBE8 /* Hello (2).png in Resources */,
 				335A750D278DA98B0069B58D /* nssl0046.jpg in Resources */,
 				335A7511278DA98B0069B58D /* nssl0043.jpg in Resources */,
 				335A750C278DA98B0069B58D /* nssl0091.jpg in Resources */,
